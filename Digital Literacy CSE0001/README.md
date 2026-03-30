@@ -1,9 +1,9 @@
 # 📘 Digital Literacy Project
 
 ## 👨‍🎓 Student Details
-- **Name:** Shivang Kumar Paswan  
-- **Registration Number:** 25BEC10017  
-- **Branch:** Electronics & Communication Engineering  
+- **Name:** ASTHA SINGH  
+- **Registration Number:** 25BCY10221  
+- **Branch:** CSE IN CYBER SECURITY  
 - **Year:** 1st Year  
 - **Course Code:** CSE0001  
 
